@@ -1,4 +1,3 @@
-
 *{
     margin: 0;
     padding: 0;
@@ -149,30 +148,20 @@ a{
 
     .nav-list-mobile{
         width: 100%;
-
-        position: fixed;
-        top: -1100%;
-        z-index:-1;
+        height: 100vh;
+        opacity: 0.9;
 
         background-color: #030303;
-        opacity: 0.5;
         list-style: none;
 
-        display: flex;
+        display: none;
         flex-direction: column;
         align-items: center;
         margin: 0;
         padding: 40px 30px;
 
-        transition: 1s ease;
     }
 
-    .nav-list-mobile-active{
-        top: 0;
-        height: 100vh;
-        opacity: 1;
-
-    }
 
     .nav-item-mobile{
         width:100%;
@@ -238,14 +227,12 @@ a{
 }
 
 
-
 .container-img-iphonese{
     display: flex;
     justify-content: center;
     align-items: center;
     margin-top: 20%;
     
-
 }
 
 .container-img-iphonese > img{

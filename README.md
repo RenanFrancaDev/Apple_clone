@@ -12,7 +12,7 @@ Projeto criado com o objetivo de criar um clone do site da Apple, fazendo um tel
 
 - Fazer um clone de um grande site;
 - Criar um menu "hámburguer" com animação;
-- Abrir uma tela se Spam, como forma de atrair o Cliente;
+- Abrir uma tela de Spam, como forma de atrair o Cliente;
 - Explorar a biblioteca Jquery;
 - Trabalhar o Design com CSS;
 
